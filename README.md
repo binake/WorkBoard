@@ -7,7 +7,7 @@ A desktop task management application featuring Kanban-style workflow, built wit
 
 ## ✨ Features / 功能特性
 
-- 📋 Kanban-style task management / 看板式任务管理
+- 📋 Kanban-style task management / 看板式任务管理（待办事宜、正在处理、办理完毕）
 - 🔄 Drag-and-drop task organization / 任务拖拽排序
 - ✏️ Real-time task editing / 实时任务编辑
 - 🎯 Status tracking / 状态追踪
@@ -75,8 +75,9 @@ workboard/
 
 ## 🖥️ Screenshots / 界面截图
 
-[在这里添加应用截图]
 
+![alt text](QQ_1735302940449.png)
+![alt text](QQ_1735302990827.png)
 ## 🔧 Configuration / 配置
 
 The application uses the following default configuration:
@@ -103,7 +104,9 @@ Contributions, issues and feature requests are welcome!
 
 ## 📮 Contact / 联系方式
 
-[在这里添加您的联系方式]
+[QQ：3394966158]
+[微信：OFCOUZ]
+[邮箱：3394966158@qq.com]
 
 ## 🙏 Acknowledgments / 致谢
 
@@ -113,26 +116,6 @@ Contributions, issues and feature requests are welcome!
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name]</p>
+<p align="center">Made with ❤️ by [OFCOUZ]</p>
 ```
-
-这个 README.md 文件包含了：
-
-1. 项目简介（中英双语）
-2. 功能特性
-3. 技术栈
-4. 安装说明
-5. 使用方法
-6. 项目结构
-7. 配置说明
-8. 许可证信息
-9. 贡献指南
-10. 联系方式
-11. 致谢
-
-你可以根据需要修改其中的内容，特别是：
-- GitHub 仓库地址
-- 联系方式
-- 截图
-- 作者信息
 
